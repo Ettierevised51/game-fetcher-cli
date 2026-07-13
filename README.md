@@ -1,4 +1,4 @@
-# gamefetcher
+# Game Fetcher CLI / gamefetcher
 
 CLI for installing and updating Steam game dedicated servers and Steam
 Workshop mods, wrapping `steamcmd`. Go, no API keys, no scraping, no external
